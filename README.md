@@ -1,2 +1,3 @@
 # pes
-PES Mobile play log. :)
+
+实况足球手游游玩记录。
